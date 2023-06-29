@@ -1,0 +1,2 @@
+# blood-donation-management-system-python-source-code
+The Blood Donation Management System is a web-based application that facilitates the process of blood donation, allowing users to access blood types, request specific blood types, register as blood donors, and locate available donors. This system aims to streamline the blood donation process, making it more efficient and accessible for both donors and recipients.
